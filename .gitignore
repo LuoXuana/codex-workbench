@@ -1,0 +1,12 @@
+# Local runtime and temporary files
+.env
+.env.*
+*.log
+tmp/
+temp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
