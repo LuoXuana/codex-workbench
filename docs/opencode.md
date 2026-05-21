@@ -39,25 +39,25 @@ Current preference: use OpenCode through `opencode-go/deepseek-v4-pro` only, whi
 Run OpenCode directly:
 
 ```bat
-E:\claude\codex-workbench\scripts\opencode.cmd --help
+E:\codex\scripts\opencode.cmd --help
 ```
 
 Run a quick OpenCode Go prompt:
 
 ```bat
-E:\claude\codex-workbench\scripts\opencode-go-run.cmd "Explain this repository in three bullets"
+E:\codex\scripts\opencode-go-run.cmd "Explain this repository in three bullets"
 ```
 
 Start the OpenCode TUI in a project:
 
 ```bat
-E:\claude\codex-workbench\scripts\opencode.cmd E:\claude
+E:\codex\scripts\opencode.cmd E:\codex
 ```
 
 Use a specific OpenCode Go model:
 
 ```bat
-E:\claude\codex-workbench\scripts\opencode.cmd run --model opencode-go/deepseek-v4-pro "Review this change"
+E:\codex\scripts\opencode.cmd run --model opencode-go/deepseek-v4-pro "Review this change"
 ```
 
 ## Notes

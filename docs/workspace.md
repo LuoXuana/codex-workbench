@@ -4,7 +4,7 @@
 
 - Account: `LuoXuana`
 - Repository: `LuoXuana/codex-workbench`
-- Local checkout: `E:\claude\codex-workbench`
+- Local checkout: `E:\codex`
 
 ## Usage
 

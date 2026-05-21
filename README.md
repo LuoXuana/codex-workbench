@@ -16,7 +16,7 @@ This repository is reserved for Codex-specific setup rather than product code. U
 Primary local checkout:
 
 ```text
-E:\claude\codex-workbench
+E:\codex
 ```
 
 ## Current Setup
