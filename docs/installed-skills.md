@@ -25,3 +25,7 @@ Installed on 2026-05-21.
 ## Note
 
 Restart Codex after installing new skills so the app can discover them in future turns.
+
+## Companion Tools
+
+- `opencode-ai`: installed globally with npm and connected to the existing OpenCode credentials on this machine. See [opencode.md](opencode.md).

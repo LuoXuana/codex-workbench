@@ -22,3 +22,5 @@ E:\claude\codex-workbench
 ## Current Setup
 
 See [docs/installed-skills.md](docs/installed-skills.md) for the current enhancement list.
+
+OpenCode is also installed as a companion CLI. See [docs/opencode.md](docs/opencode.md).
