@@ -18,18 +18,21 @@ OpenCode currently reports these credentials:
 
 ## OpenCode Go Models
 
-Available OpenCode Go models checked on 2026-05-21:
+Available models checked on 2026-05-21 include:
 
-- `opencode/big-pickle`
-- `opencode/deepseek-v4-flash-free`
-- `opencode/nemotron-3-super-free`
-- `opencode/qwen3.6-plus-free`
+- `opencode-go/deepseek-v4-pro`
+- `opencode-go/deepseek-v4-flash`
+- `opencode-go/qwen3.6-plus`
+- `opencode-go/kimi-k2.6`
+- `opencode-go/minimax-m2.7`
 
 Default wrapper model:
 
 ```text
-opencode/qwen3.6-plus-free
+opencode-go/deepseek-v4-pro
 ```
+
+Current preference: use OpenCode through `opencode-go/deepseek-v4-pro` only, while the OpenCode Go quota remains available.
 
 ## Commands
 
@@ -54,7 +57,7 @@ E:\claude\codex-workbench\scripts\opencode.cmd E:\claude
 Use a specific OpenCode Go model:
 
 ```bat
-E:\claude\codex-workbench\scripts\opencode.cmd run --model opencode/deepseek-v4-flash-free "Review this change"
+E:\claude\codex-workbench\scripts\opencode.cmd run --model opencode-go/deepseek-v4-pro "Review this change"
 ```
 
 ## Notes

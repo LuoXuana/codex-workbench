@@ -28,4 +28,4 @@ Restart Codex after installing new skills so the app can discover them in future
 
 ## Companion Tools
 
-- `opencode-ai`: installed globally with npm and connected to the existing OpenCode credentials on this machine. See [opencode.md](opencode.md).
+- `opencode-ai`: installed globally with npm and connected to the existing OpenCode credentials on this machine. Default companion model: `opencode-go/deepseek-v4-pro`. See [opencode.md](opencode.md).

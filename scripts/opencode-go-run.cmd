@@ -2,7 +2,7 @@
 setlocal
 
 set "OPENCODE_BIN=%APPDATA%\npm\opencode.cmd"
-set "OPENCODE_GO_MODEL=opencode/qwen3.6-plus-free"
+set "OPENCODE_GO_MODEL=opencode-go/deepseek-v4-pro"
 
 if not exist "%OPENCODE_BIN%" (
   echo opencode is not installed at "%OPENCODE_BIN%".
