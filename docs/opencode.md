@@ -63,3 +63,7 @@ E:\claude\codex-workbench\scripts\opencode.cmd run --model opencode-go/deepseek-
 ## Notes
 
 Codex cannot embed OpenCode inside its own model runtime. The practical integration is to keep OpenCode installed locally and call it as a companion CLI when you want to spend OpenCode Go quota on a task.
+
+OpenCode Go quota may be used for simple tasks, auxiliary checks, and parallel analysis. Current user preference is to use `opencode-go/deepseek-v4-pro` for those calls.
+
+Never commit OpenCode credentials or API keys. The real credential file should stay outside Git at `~\.local\share\opencode\auth.json`.

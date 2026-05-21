@@ -24,3 +24,5 @@ E:\claude\codex-workbench
 See [docs/installed-skills.md](docs/installed-skills.md) for the current enhancement list.
 
 OpenCode is also installed as a companion CLI. See [docs/opencode.md](docs/opencode.md).
+
+Secret handling rules are tracked in [docs/secret-safety.md](docs/secret-safety.md).
